@@ -1,3 +1,6 @@
+---
+w:
+---
 # LSP Capabilities
 - Diagnostics
 - Inlay Hints
@@ -33,4 +36,22 @@ local f = function(x: number, y: number)
 	return x + y
 end
 local result: number = f(x: 12, y: 34)
+```
+
+```lua
+local ary = {
+	[1] "A",
+	[2] "B",
+	[3] "C",
+}
+local ary = {
+	 "A", [1]
+	 "B", [2]
+	 "C", [3]
+}
+```
+
+## Completion
+```lua
+---param vim.api.
 ```

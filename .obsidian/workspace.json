@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "typua Design"
             }
+          },
+          {
+            "id": "d7f5df44adb9a68f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "typua Type System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "typua Type System"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,9 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c956b5417b2e2c43",
+  "active": "d7f5df44adb9a68f",
   "lastOpenFiles": [
     "typua Design.md",
+    "typua Type System.md",
     "Welcome.md"
   ]
 }
