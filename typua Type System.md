@@ -69,6 +69,7 @@ $$
 $$
 
 この演算子は再帰的に定義されている。
+
 $$
 \begin{align*}
   &\sigma | _\tau = \begin{cases}
@@ -78,9 +79,11 @@ $$
   \end{cases}
 \end{align*}
 $$
+
 $$
 \left( \sigma_1 \to \sigma_2 \right) | _{\left( \tau_1 \to \tau_2 \right)} = \left( \sigma_1 | _{\tau_1} \right) \to \left(\sigma_2 | _{\tau_2} \right)
 $$
+
 
 ## 型の無矛盾(Type Consistent)
 2つの型 $\sigma$ と $\tau$ が
